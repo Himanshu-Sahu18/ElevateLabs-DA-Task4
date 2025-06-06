@@ -169,7 +169,17 @@ WHERE Rating > 4
 ORDER BY price_per_rating_point ASC
 LIMIT 10;
 ```
-
+Screenshots
+![Image](https://github.com/user-attachments/assets/b75434c0-6d71-4cf7-b486-cccb02fce95d)
+![Image](https://github.com/user-attachments/assets/8a6c9da8-cd43-4c56-b3b3-d2be169c670d)
+![Image](https://github.com/user-attachments/assets/6c72c4b4-d403-4733-8769-97d9de2ffa82)
+![Image](https://github.com/user-attachments/assets/099f2cdd-733b-4653-9109-e28af344948d)
+![Image](https://github.com/user-attachments/assets/d55d06e6-4c07-4445-a29d-ad828ff64433)
+![Image](https://github.com/user-attachments/assets/aa326ea1-4703-46c9-829b-c1b80da8a424)
+![Image](https://github.com/user-attachments/assets/3fd0ba1d-2f33-4ca0-a529-49db7eeeadcc)
+![Image](https://github.com/user-attachments/assets/d50bee3d-c2dd-432f-a1df-cfcbeb081a76)
+![Image](https://github.com/user-attachments/assets/67983e31-63fb-46f5-8a80-547665cf891d)
+![Image](https://github.com/user-attachments/assets/88055373-17a2-4a38-840e-179614c23187)
 ---
 
 ## How to Use
